@@ -11,6 +11,7 @@ import java.util.Scanner;
  */
 
 public class E01MethodBasic {
+	// github 연동 완료
 
 	/*
 	메서드1 : 반환값 있음, 매개변수 있음 형태
